@@ -1,0 +1,30 @@
+[
+  {
+    "id": "17350566-acd5-407e-85eb-ff29b6f0c05e",
+    "email": "rumgokcee@gmail.com",
+    "password": "$2a$10$c6Uw7nik0DvnS2XOIcikde7Sbzvb3s./3Urc2xxWBbV31h2kIEkfS",
+    "fullName": "Rumeysa Gokce",
+    "createdAt": "2026-01-08T18:37:55.586Z"
+  },
+  {
+    "id": "df035638-05bf-4558-90a8-d98d87bb4efe",
+    "email": "",
+    "password": "$2a$10$ZFG0LhuuQIEe.BtPaPBriOCeR.4ooqPeogT46TH/zOd1ROyHMWh02",
+    "fullName": "",
+    "createdAt": "2026-01-11T16:03:06.803Z"
+  },
+  {
+    "id": "d563a4db-8bdc-409b-94d6-abf1b3e04981",
+    "email": "bgokce@gmail.com",
+    "password": "$2a$10$lWmkbAl/YZSCyl88YSnEweZZeQQ1IplpA.LQjgBYujiUq1veqcy8a",
+    "fullName": "busra gokce",
+    "createdAt": "2026-01-11T16:04:30.539Z"
+  },
+  {
+    "id": "bea1ca9b-a9a2-4fda-849a-f647d34f441c",
+    "email": "bgokcee@gmail.com",
+    "password": "$2a$10$dWV28ck2LhzTa.NxZ15yfuVu3p7mFOB3NurJ7P6/c68X5oDrp8ysu",
+    "fullName": "busra gokce",
+    "createdAt": "2026-01-11T16:09:02.891Z"
+  }
+]
